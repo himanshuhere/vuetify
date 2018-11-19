@@ -5,7 +5,7 @@ module.exports = {
     '<rootDir>/test/unit',
     '<rootDir>/test/integration'
   ],
-  moduleFileExtensions: [
+  moduleFileExtensions:[
     'ts',
     'js'
   ],
